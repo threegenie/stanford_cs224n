@@ -2,7 +2,7 @@
 
 ### **How do we represent the meaning of a word?**
 
-Definition : Meaning
+Definition : ****Meaning
 
 - the idea that is represented by a word
 - the idea that a person wants to express by using words, signs, etc.
@@ -87,10 +87,14 @@ Definition : Meaning
 - there are as many parameters as vector dimensions
 - word vectors would calculate a higher probability for the words that actually occur in contexts of this center word
 
+→ 수식 설명 부분은 제외 - 55:11~1:13:06
+
+→ 이후 word vector visualization 관련해서 assignment 및 example ipynb 파일 설명
+
 ### Gensim word vector visualization
 
 Gensim : A library that provides most of the conveniences needed to convert natural language to vectors
 
-Refer to the article below ↓
+Refer to the article ipynb below ↓
 
 [https://web.stanford.edu/class/cs224n/materials/Gensim word vector visualization.html](https://web.stanford.edu/class/cs224n/materials/Gensim%20word%20vector%20visualization.html)
