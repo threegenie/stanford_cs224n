@@ -1,5 +1,5 @@
 ## Stanford CS224N
-- [Lecture 1 LINK](https://youtu.be/8rXD5-xhemo)
+- [Playlist LINK](https://youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 - [Class articles LINK](http://web.stanford.edu/class/cs224n/index.html#schedule)
 
 NLP with Deep Learning , Winter 2019 
