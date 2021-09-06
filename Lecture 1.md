@@ -2,7 +2,7 @@
 
 ### **How do we represent the meaning of a word?**
 
-Definition : ****Meaning
+Definition : Meaning
 
 - the idea that is represented by a word
 - the idea that a person wants to express by using words, signs, etc.
