@@ -86,3 +86,11 @@ Definition : Meaning
 - we optimize these parameters by walking down the gradient
 - there are as many parameters as vector dimensions
 - word vectors would calculate a higher probability for the words that actually occur in contexts of this center word
+
+### Gensim word vector visualization
+
+Gensim : A library that provides most of the conveniences needed to convert natural language to vectors
+
+Refer to the article below ↓
+
+[https://web.stanford.edu/class/cs224n/materials/Gensim word vector visualization.html](https://web.stanford.edu/class/cs224n/materials/Gensim%20word%20vector%20visualization.html)
