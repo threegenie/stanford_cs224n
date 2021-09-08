@@ -92,18 +92,17 @@ scaling the counts in the cells can help a lot
 ### Count based vs Direct prediction
 
 **Count based**
+- LSA, HAL
+- COALS
+- Fast training, efficient usage of statistics
+- primarily used to capture word similarity
+- - disproportionate importance given to large counts
 
 **Direct prediction**
-
-- LSA, HAL
 - Skip-gram, CBOW
-- COALS
 - NNLM, HLBM, RNN
-- Fast training, efficient usage of statistics
 - Scales with corpus size
-- primarily used to capture word similarity
 - inefficient usage of statistics
-- disproportionate importance given to large counts
 - can capture complex patterns beyond word similarity
 
 ### Encoding meaning in vector differences
