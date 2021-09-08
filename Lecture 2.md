@@ -96,7 +96,7 @@ scaling the counts in the cells can help a lot
 - COALS
 - Fast training, efficient usage of statistics
 - primarily used to capture word similarity
-- - disproportionate importance given to large counts
+- disproportionate importance given to large counts
 
 **Direct prediction**
 - Skip-gram, CBOW
